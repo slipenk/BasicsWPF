@@ -1,0 +1,22 @@
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\Music\You'll Never Walk Alone.mp3
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\UnitTestWPF.dll
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\UnitTestWPF.pdb
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\WPF.exe
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\AutoMapper.dll
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\Ninject.dll
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\WPF.pdb
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\WPF.exe.config
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\AutoMapper.xml
+D:\Юра\C#\Lab_5\UnitTestWPF\bin\Debug\Ninject.xml
+D:\Юра\C#\Lab_5\UnitTestWPF\obj\Debug\UnitTestWPF.csprojAssemblyReference.cache
+D:\Юра\C#\Lab_5\UnitTestWPF\obj\Debug\UnitTestWPF.csproj.CoreCompileInputs.cache
+D:\Юра\C#\Lab_5\UnitTestWPF\obj\Debug\UnitTestWPF.csproj.CopyComplete
+D:\Юра\C#\Lab_5\UnitTestWPF\obj\Debug\UnitTestWPF.dll
+D:\Юра\C#\Lab_5\UnitTestWPF\obj\Debug\UnitTestWPF.pdb

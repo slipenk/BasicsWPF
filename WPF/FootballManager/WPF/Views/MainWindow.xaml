@@ -1,0 +1,42 @@
+﻿<Window xmlns:Views="clr-namespace:WPF.Views"  x:Class="WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        
+        mc:Ignorable="d"
+        Title ="Футбол" Height="764.46" Width="1227.342"
+         WindowState="Maximized"
+        xmlns:Converter="clr-namespace:WPF.Converters">
+ 
+
+    <Window.Resources>
+        <Converter:ControlVisibility x:Key="my:ControlVisibility"/>
+     
+
+    </Window.Resources>
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0"  Orientation="Horizontal" Margin="5">
+            <Button x:Name="Clubs"  Command="{Binding SetControlVisibility}" CommandParameter="Clubs">
+                Клуби
+            </Button>
+            <Button x:Name="Footballers"  Command="{Binding SetControlVisibility}" CommandParameter="Footballers">
+                Гравці
+            </Button>
+            <Button x:Name="Music"  Command="{Binding SetMusic}" Content="Музика" />
+        </StackPanel>
+        
+            <StackPanel Grid.Row="1">
+
+            <Views:FootballersUserControl Visibility="{Binding Path=VisibleControl, Converter={StaticResource my:ControlVisibility}, ConverterParameter=Footballers}" />
+            <Views:ManagerUserControl Visibility="{Binding Path=VisibleControl, Converter={StaticResource my:ControlVisibility}, ConverterParameter=Clubs}"/>
+            
+        </StackPanel>
+           
+    </Grid>
+</Window>
